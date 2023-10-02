@@ -13,28 +13,30 @@ main {
     margin: 20px 10px;
 }
 
-.logo{
+.logo {
     height: 100px;
     position: absolute;
     left: 10px;
     bottom: 10px;
 }
 
-.main-title{
-    font-size: 30px;
+.main-title {
+    font-size: 35px;
     font-weight: bold;
 }
 
-.author{
+.author {
     font-size: 15px;
 }
 
-.images-source{
+.images-source {
     font-size: 12px;
 }
 
 
-
+.hl-yellow {
+    background-color: yellow;
+}
 
 .grey-font {
     color: grey;
@@ -42,4 +44,10 @@ main {
 
 .blue-font {
     color: lightskyblue;s
+}
+
+
+
+.spazio-vuoto{
+    margin-bottom: 0.60cm;
 }
