@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+header{
+    background: dodgerblue;
+    height: 200px;
+    position: relative;
+}
+
+main{margin: 20px 10px;
+
+}
+
+.logo{
+    height: 100px;
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+}
+
