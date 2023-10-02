@@ -73,6 +73,26 @@ main {
     border-spacing: 0px;
 }
 
+.rm{
+    width: 200px;
+    height: 150px;
+    margin: 10px 0;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px 10px;
+    background-size: cover;
+    background-position: center;
+}
+
+.rm-1 {
+    background-image: url("../graph.jpg");
+}
+
+.rm-2 {
+    background-image: url("../monitor.jpg");
+}
+
 .spazio-vuoto{
     margin-bottom: 0.60cm;
 }
