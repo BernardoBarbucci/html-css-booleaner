@@ -33,6 +33,13 @@ main {
     font-size: 12px;
 }
 
+.text {
+    margin-left: 5px;
+}
+
+.text ul {
+    margin-left: -25px;
+}
 
 .hl-yellow {
     background-color: yellow;
@@ -42,11 +49,29 @@ main {
     color: grey;
 }
 
-.blue-font {
-    color: lightskyblue;s
+.black-font {
+    color: black;
 }
 
+.blue-font {
+    color: lightskyblue;
+}
 
+.bg-blue {
+    background-color:rgb(100, 209, 255);
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.table-title {
+    width: fit-content;
+    text-align: start;
+    background-color: rgb(25, 128, 172);
+    color: white;
+    border-spacing: 0px;
+}
 
 .spazio-vuoto{
     margin-bottom: 0.60cm;
