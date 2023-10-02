@@ -3,15 +3,14 @@
     margin: 0;
 }
 
-
 header{
     background: dodgerblue;
     height: 200px;
     position: relative;
 }
 
-main{margin: 20px 10px;
-
+main { 
+    margin: 20px 10px;
 }
 
 .logo{
@@ -21,3 +20,26 @@ main{margin: 20px 10px;
     bottom: 10px;
 }
 
+.main-title{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.author{
+    font-size: 15px;
+}
+
+.images-source{
+    font-size: 12px;
+}
+
+
+
+
+.grey-font {
+    color: grey;
+}
+
+.blue-font {
+    color: lightskyblue;s
+}
